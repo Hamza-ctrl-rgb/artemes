@@ -1,0 +1,9 @@
+{
+  "name": "Artemes | آرتيميس",
+  "description": "براند ملابس عصري يقدم تصاميم فريدة بجودة عالية، مع تجربة تسوق سلسة وإدارة متكاملة للمخزون.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
